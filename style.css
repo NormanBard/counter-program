@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin: 0 10px;
+}
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
