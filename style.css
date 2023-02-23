@@ -18,7 +18,7 @@ button{
                 user-select: none;
                 -webkit-user-select: none;
                 touch-action: manipulation;
-                margin: 10px;
+                margin: 30px;
             }
         
 button:active {
@@ -28,7 +28,7 @@ button:active {
             }
         
             @media (min-width: 768px) {
-                .button-54 {
+                button {
                     padding: 0.25em 0.75em;
                 }
             }
@@ -37,9 +37,11 @@ button:active {
 #countLabel{
     display: block;
     text-align: center;
-    font-size: 50px;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 30px;
 }
-
+dfg
 .buttonContainer {
     margin: 20px;
     space 
